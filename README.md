@@ -1,4 +1,4 @@
-Steps to set up the project
+# Steps to set up the project
 
 Install Rust:
 • Download and install Rust from  https://www.rust-lang.org/tools/install our run curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
